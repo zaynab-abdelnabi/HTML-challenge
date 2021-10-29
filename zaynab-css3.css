@@ -20,6 +20,7 @@ header {
     padding-left: 20px;
     margin-bottom: 10px;
     color: #ccc;
+    border: 1px solid #ccc;
 }
 
 nav {
@@ -35,11 +36,12 @@ nav a {
 }
 
 header h1, header h5 {
-    background-color: #212b2d;
+    color: #212b2d;
     width: fit-content;
     padding: 13px 20px;
     margin: 10px;
     border-radius: 5px;
+    background-color: #ccc;
 }
 
 header h1 {
